@@ -13,7 +13,6 @@ if b==0.0:
   print('Zero error')
 else:
   Division= np.divide(a,b)
-
-st.write('The Division of given numbers is', Division)
+  st.write('The Division of given numbers is', Division)
 st.write('By Kanika Maheshwari')
 
