@@ -1,8 +1,8 @@
 import streamlit as st
 import numpy as np
 
-st.write("""
-##Division of two given numbers 
+st.title("""
+Division of two given numbers 
 """)
 #Get Input
 st.header('Input two numbers')
