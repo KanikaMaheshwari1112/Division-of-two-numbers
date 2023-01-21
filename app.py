@@ -13,5 +13,4 @@ Division= a/b
 
 st.write('The Division of given numbers is', Division)
 st.write('By Kanika Maheshwari (22ds1000263)')
-#streamlit app file link
-#https://kanikamaheshwari1112-streamlit-heroku-1-app-vupdsc.streamlit.app/
+
