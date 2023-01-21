@@ -1,4 +1,5 @@
 import streamlit as st
+import numpy as np
 
 st.write("""
 ##Division of two given numbers 
@@ -11,7 +12,7 @@ b= st.number_input('Enter second number')
 if b==0.0:
   print('Zero error')
 else:
-  Division= a/b 
+  Division= np.divide(a,b)
 
 st.write('The Division of given numbers is', Division)
 st.write('By Kanika Maheshwari')
